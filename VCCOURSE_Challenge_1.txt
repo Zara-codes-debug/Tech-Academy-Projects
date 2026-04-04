@@ -1,1 +1,1 @@
-This is first file my remote repositry.
+This is first file for my remote repositry.
